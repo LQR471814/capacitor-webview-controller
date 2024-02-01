@@ -1,5 +1,7 @@
 # capacitor-webview-controller
 
+*this project has been archived in favor of [capacitor-inappbrowser](https://github.com/Cap-go/capacitor-inappbrowser)*
+
 > control webviews cross platform using capacitor.js.
 
 ## Install
